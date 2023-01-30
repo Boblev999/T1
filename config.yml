@@ -109,5 +109,5 @@ chains:
     nodes:
       # URL for the endpoint. Must include protocol://hostname:port
       # repeat hosts for monitoring redundancy
-      - url: https://teritori.nodejumper.io:443
+      - url: https://194.34.232.124:35636
         alert_if_down: yes

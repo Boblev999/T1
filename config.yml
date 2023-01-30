@@ -1,4 +1,3 @@
-
 ---
 
 # controls whether the dashboard is enabled.
@@ -109,5 +108,5 @@ chains:
     nodes:
       # URL for the endpoint. Must include protocol://hostname:port
       # repeat hosts for monitoring redundancy
-      - url: https://194.34.232.124:35636
+      - url: https://194.34.232.124:35637
         alert_if_down: yes
